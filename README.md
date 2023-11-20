@@ -37,4 +37,4 @@
 
 ![](./pics/prediction_stats_figure_2.png)
 
-Please cite the manuscript incase you happen to use any of our codes
+# Please cite the manuscript incase you happen to use any of our codes
