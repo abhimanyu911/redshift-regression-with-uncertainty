@@ -23,7 +23,7 @@ preferred-citation:
     given-names: "Gopal"
   doi: "10.1093/mnras/stad3622"
   journal: "Monthly Notices of the Royal Astronomical Society"
-  month: January
+  month: 1
   start: 6198 # First page number
   end: 6210 # Last page number
   title: "Estimation of redshift and associated uncertainty of Fermi/LAT extragalactic sources with Deep Learning"
