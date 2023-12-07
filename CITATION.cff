@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Borthakur"
+  given-names: "Abhimanyu"
+  bio: "https://abhimanyu911.github.io/"
+- family-names: "Gharat"
+  given-names: "Sarvesh"
+  bio: "https://sarveshvgharat.github.io/"
+title: "Redshift Regression and Variational Inference"
+version: 0.0.1
+doi: 10.1093/mnras/stad3622
+date-released: 2023-11-23
+url: "https://github.com/abhimanyu911/redshift-regression-with-uncertainty"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Gharat"
+    given-names: "Sarvesh"
+  - family-names: "Borthakur"
+    given-names: "Abhimanyu"
+  - family-names: "Bhatta"
+    given-names: "Gopal"
+  doi: "10.1093/mnras/stad3622"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  month: January
+  start: 6198 # First page number
+  end: 6210 # Last page number
+  title: "Estimation of redshift and associated uncertainty of Fermi/LAT extragalactic sources with Deep Learning"
+  issue: 3
+  volume: 527
+  year: 2024
