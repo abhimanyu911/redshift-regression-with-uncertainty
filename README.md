@@ -10,11 +10,19 @@
 ## Results in comparison to other algorithms
 
 
-![](./pics/results_table.png)
+![](./pics/results_table_final.png)
 
 
 
-![](./pics/scatter_plots.png)
+![](./pics/scatter_plot_1.png)
+
+
+
+![](./pics/scatter_plot_2.png)
+
+
+
+![](./pics/scatter_plot_3.png)
 
 
 ## Sample predictions
