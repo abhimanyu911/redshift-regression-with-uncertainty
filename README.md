@@ -47,6 +47,10 @@
 
 ## Please cite the manuscript incase you happen to use any of our codes
 
+
+[Manuscript](https://academic.oup.com/mnras/article/527/3/6198/7445008)
+
+
 ```
 @article{10.1093/mnras/stad3622,
     author = {Gharat, Sarvesh and Borthakur, Abhimanyu and Bhatta, Gopal},
