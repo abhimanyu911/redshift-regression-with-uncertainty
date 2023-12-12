@@ -2,6 +2,18 @@
 # Estimating the redshift and associated uncertainty of Fermi-LAT extra galactic sources
 
 
+Predicting the redshifts of sources in the 4LAC-DR3 catalog and estimating the associated uncertainty with the help of variational inference.
+
+
+# Getting started
+
+
+```
+git clone https://github.com/abhimanyu911/redshift-regression-with-uncertainty.git
+pip install -r requirements.txt
+```
+
+
 ## Models used
 
 ![](./pics/models_used.png)
