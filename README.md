@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ![](./pics/prediction_stats_figure_2.png)
 
-## Please cite the manuscript incase you happen to use any of our codes
+## Please cite the manuscript incase you happen to use any of our code
 
 
 [Manuscript](https://academic.oup.com/mnras/article/527/3/6198/7445008)
